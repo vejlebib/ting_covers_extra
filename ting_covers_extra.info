@@ -1,0 +1,7 @@
+name = Ting covers extra
+description = Extra covers and cover provider plugins for Ting objects and collections
+package = Ding!
+core = 7.x
+version = "7.x-0.1"
+files[] = ting_covers_extra.module
+dependencies[] = ting
